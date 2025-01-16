@@ -22,7 +22,7 @@
 </html>
 
 <?php
-// Activer le rapport d'erreurs
+// Activer  rapport d'erreurs
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
