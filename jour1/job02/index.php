@@ -1,6 +1,7 @@
 <?php
-echo "Hello LaPlateforme!";
-
+echo "Hello LaPlateforme!";//commentaire 
+/*commentaire  */
+#commentaire 
 
 echo "Hello LaPlateforme!";
 ?>
