@@ -34,7 +34,7 @@ if (!empty($_GET)) {
     // Afficher le résultat
     echo "Nombre d'arguments reçus : " . htmlspecialchars($nombre_arguments) . "<br>";
 
-    // Facultatif : Afficher les arguments pour vérifier
+    //  Afficher les arguments pour vérifier
     echo "<pre>";
     print_r(array_map('htmlspecialchars', $_GET)); // Montre les clés et les valeurs
     echo "</pre>";
