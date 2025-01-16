@@ -22,9 +22,6 @@
 </html>
 
 <?php
-
-
-
    
     echo "Nombre d'arguments reçus : " . count($_GET) . "<br>";
 ?>
