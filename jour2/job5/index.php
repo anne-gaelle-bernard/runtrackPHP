@@ -13,7 +13,7 @@ function isPrime($number) {
 
 for ($i = 2; $i <= 1000; $i++) {
     if (isPrime($i)) {
-        echo $i . "\n";
+        echo $i . "<br>";
     }
 }
 ?>
