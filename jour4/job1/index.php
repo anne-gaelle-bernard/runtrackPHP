@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="index.php" method="GET">
-        <label for="name">Nom  :</label>
+        <label for="name">Nom de famille :</label>
         <input type="text" id="name" name="name" required><br><br>
 
         <label for="age">Âge :</label>
