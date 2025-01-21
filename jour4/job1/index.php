@@ -6,6 +6,10 @@
     <title>Formulaire GET</title>
 </head>
 <body>
+
+
+
+
     <form action="index.php" method="GET">
         <label for="name">Nom de famille :</label>
         <input type="text" id="name" name="name" required><br><br>
@@ -22,6 +26,7 @@
 </html>
 
 <?php
-   
+   #methode get 
     echo "Nombre d'arguments reçus : " . count($_GET) . "<br>";
+    
 ?>
