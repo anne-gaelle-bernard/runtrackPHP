@@ -8,7 +8,7 @@
 <body>
 
     <!-- Formulaire de type POST -->
-    <form action="votre_fichier.php" method="POST">
+    <form action="mon_fichier.php" method="POST">
         <label for="nom">Nom:</label>
         <input type="text" name="nom" id="nom" required><br><br>
 
